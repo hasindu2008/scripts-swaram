@@ -1,0 +1,63 @@
+2017-10-23 06:40:33,202 - INFO - Beginning variant calling
+2017-10-23 06:40:33,207 - INFO - Output will go to /genomics/scratch/out.vcf
+2017-10-23 06:40:33,268 - INFO - Processing region 1:155781630-155881630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,270 - INFO - Processing region 1:155981630-156081630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,267 - INFO - Processing region 1:155881630-155981630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,289 - INFO - Processing region 1:156381630-156481630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,290 - INFO - Processing region 1:156081630-156181630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,286 - INFO - Processing region 1:156181630-156281630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,303 - INFO - Processing region 1:156281630-156381630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:52,899 - INFO - Skipping very large window 1:155820676-155822466 of size 1790. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:41:37,183 - INFO - Skipping very large window 1:161111400-161112970 of size 1570. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:41:40,798 - INFO - Skipping very large window 1:161244140-161246479 of size 2339. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:41:41,939 - INFO - Skipping very large window 1:160898512-160900032 of size 1520. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:41:45,387 - INFO - Skipping very large window 1:160937315-160939694 of size 2379. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:42:03,946 - INFO - Processing region 1:164481630-164581630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:05,404 - INFO - Skipping very large window 1:162544070-162545608 of size 1538. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:42:06,245 - INFO - Processing region 1:164381630-164481630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:06,805 - INFO - Skipping very large window 1:160850085-160851609 of size 1524. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:42:07,741 - INFO - Processing region 1:164281630-164381630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:12,984 - INFO - Processing region 1:164081630-164181630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:22,189 - INFO - Processing region 1:163781630-163881630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:23,964 - INFO - Processing region 1:163881630-163981630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:33,128 - INFO - Processing region 1:164181630-164281630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:39,791 - INFO - Skipping very large window 1:162448727-162450515 of size 1788. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:42:46,598 - INFO - Skipping very large window 1:167685799-167687304 of size 1505. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:42:54,434 - INFO - Processing region 1:163981630-164081630. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:43:29,164 - INFO - Total time for creating 88.235921
+2017-10-23 06:43:29,164 - INFO - Total time for traversing 0.727573
+2017-10-23 06:43:29,164 - INFO - Total time for assembling 90.283928
+2017-10-23 06:43:29,165 - INFO - Total time for eveeeeryything 175.877197
+2017-10-23 06:43:40,209 - INFO - Total time for creating 97.829216
+2017-10-23 06:43:40,209 - INFO - Total time for traversing 0.909570
+2017-10-23 06:43:40,209 - INFO - Total time for assembling 99.865733
+2017-10-23 06:43:40,210 - INFO - Total time for eveeeeryything 186.926442
+2017-10-23 06:43:44,896 - INFO - Total time for creating 96.893684
+2017-10-23 06:43:44,897 - INFO - Total time for traversing 0.810927
+2017-10-23 06:43:44,897 - INFO - Total time for assembling 99.151331
+2017-10-23 06:43:44,898 - INFO - Total time for eveeeeryything 191.599106
+2017-10-23 06:43:45,448 - INFO - Total time for creating 83.909235
+2017-10-23 06:43:45,449 - INFO - Total time for traversing 0.749583
+2017-10-23 06:43:45,449 - INFO - Total time for assembling 85.612288
+2017-10-23 06:43:45,449 - INFO - Total time for eveeeeryything 192.189867
+2017-10-23 06:43:50,635 - INFO - Total time for creating 99.129458
+2017-10-23 06:43:50,636 - INFO - Total time for traversing 0.861513
+2017-10-23 06:43:50,636 - INFO - Total time for assembling 101.646316
+2017-10-23 06:43:50,636 - INFO - Total time for eveeeeryything 197.356880
+2017-10-23 06:43:51,399 - INFO - Total time for creating 107.176141
+2017-10-23 06:43:51,400 - INFO - Total time for traversing 0.964754
+2017-10-23 06:43:51,400 - INFO - Total time for assembling 109.898168
+2017-10-23 06:43:51,400 - INFO - Total time for eveeeeryything 198.137854
+2017-10-23 06:43:56,072 - INFO - Total time for creating 98.310180
+2017-10-23 06:43:56,072 - INFO - Total time for traversing 0.845196
+2017-10-23 06:43:56,073 - INFO - Total time for assembling 100.427370
+2017-10-23 06:43:56,073 - INFO - Total time for eveeeeryything 202.794606
+2017-10-23 06:44:08,109 - INFO - Total time for creating 112.637098
+2017-10-23 06:44:08,110 - INFO - Total time for traversing 1.075147
+2017-10-23 06:44:08,110 - INFO - Total time for assembling 115.047691
+2017-10-23 06:44:08,110 - INFO - Total time for eveeeeryything 214.844899
+2017-10-23 06:44:08,545 - INFO - Merging output VCF file(s) into final file /genomics/scratch/out.vcf
+2017-10-23 06:44:09,487 - INFO - Finished merging VCF file(s)
+2017-10-23 06:44:09,489 - INFO - Finished variant calling
+1424.52user 89.51system 3:36.56elapsed 699%CPU (0avgtext+0avgdata 150904maxresident)k
+3672576inputs+30752outputs (36major+4617041minor)pagefaults 0swaps

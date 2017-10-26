@@ -1,0 +1,69 @@
+2017-09-25 01:05:13,516 - INFO - Beginning variant calling
+2017-09-25 01:05:13,516 - INFO - Output will go to /genomics/scratch/out.vcf
+2017-09-25 01:05:13,538 - DEBUG - The following regions will be searched: [('1', 0, 200000000)]
+2017-09-25 01:05:13,576 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,576 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,577 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,577 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,577 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,595 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,595 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,595 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,596 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,596 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,613 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,614 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,614 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,614 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,614 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,632 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,632 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,632 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,633 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,633 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,650 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,651 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,651 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,651 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,651 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,669 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,669 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,670 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,670 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,670 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,687 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,688 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,688 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,688 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,688 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,706 - DEBUG - Found multiple read group tags in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,706 - DEBUG - Adding sample name NA12878, using BAM RG:SM tag in file /genomics/scratch/tmp.bam
+2017-09-25 01:05:13,706 - DEBUG - Max haplotypes used for initial haplotype filtering = 50
+2017-09-25 01:05:13,707 - DEBUG - Max haplotypes used for genotype generation = 50
+2017-09-25 01:05:13,707 - DEBUG - Max genotypes = 1275
+2017-09-25 01:05:13,729 - INFO - Processing region 1:0-100000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,731 - INFO - Processing region 1:100000-200000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,735 - INFO - Processing region 1:200000-300000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,737 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,740 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,743 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,755 - INFO - Processing region 1:700000-800000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,769 - INFO - Processing region 1:500000-600000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,772 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,771 - INFO - Processing region 1:600000-700000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,772 - INFO - Processing region 1:300000-400000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,773 - INFO - Processing region 1:400000-500000. (Only printing this message every 10 regions of size 100000)
+2017-09-25 01:05:13,775 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,862 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,863 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:13,864 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:14,321 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:14,688 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:14,757 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:14,791 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:15,354 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:15,568 - DEBUG - There are 49 filtered variant candidates in reads which overlap the region 1:200000-300000
+2017-09-25 01:05:15,732 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:15,858 - DEBUG - Assembly region windows will be tiled. Each region will start 750 bases after the last one
+2017-09-25 01:05:15,867 - DEBUG - There is one sample in each BAM file. No merging is required
+2017-09-25 01:05:15,869 - ERROR - Variant calling aborted due to keyboard interrupt

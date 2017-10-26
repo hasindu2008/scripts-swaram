@@ -1,0 +1,13 @@
+- hosts: other
+  gather_facts: no
+  remote_user: odroid
+  #become: yes
+  tasks:
+  - name: "copyfile"
+    copy:
+     src: /home/odroid/tmp/htslib-1.2.1
+     dest: /tmp/htslib-1.2.1
+     #owner: root
+     #group: root
+     #mode: 0700
+

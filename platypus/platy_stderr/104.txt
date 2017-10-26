@@ -1,0 +1,60 @@
+2017-10-23 17:40:33,309 - INFO - Beginning variant calling
+2017-10-23 17:40:33,313 - INFO - Output will go to /genomics/scratch/out.vcf
+2017-10-23 17:40:33,368 - INFO - Processing region 1:62312652-62412652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:33,369 - INFO - Processing region 1:62412652-62512652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:33,372 - INFO - Processing region 1:62512652-62612652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:33,392 - INFO - Processing region 1:62712652-62812652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:33,397 - INFO - Processing region 1:62612652-62712652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:33,398 - INFO - Processing region 1:63012652-63112652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:40:40,881 - INFO - Skipping very large window 1:62462561-62464141 of size 1580. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:40:43,869 - INFO - Skipping very large window 1:62613778-62615285 of size 1507. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:40:52,854 - INFO - Skipping very large window 1:62688722-62690507 of size 1785. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:41:39,566 - INFO - Skipping very large window 1:65755691-65757856 of size 2165. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:41:44,134 - INFO - Skipping very large window 1:67938994-67941012 of size 2018. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:41:48,700 - INFO - Skipping very large window 1:67851783-67853295 of size 1512. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:42:05,566 - INFO - Processing region 1:70912652-71012652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:14,195 - INFO - Processing region 1:70312652-70412652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:16,187 - INFO - Processing region 1:71012652-71112652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:20,326 - INFO - Processing region 1:70412652-70512652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:25,885 - INFO - Processing region 1:70812652-70912652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:31,873 - INFO - Processing region 1:70712652-70812652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:43,110 - INFO - Processing region 1:70512652-70612652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:42:50,705 - INFO - Processing region 1:70612652-70712652. (Only printing this message every 10 regions of size 100000)
+2017-10-23 17:43:31,758 - INFO - Total time for creating 93.939288
+2017-10-23 17:43:31,759 - INFO - Total time for traversing 0.773001
+2017-10-23 17:43:31,760 - INFO - Total time for assembling 96.176874
+2017-10-23 17:43:31,760 - INFO - Total time for eveeeeryything 178.394673
+2017-10-23 17:43:36,351 - INFO - Total time for creating 103.738095
+2017-10-23 17:43:36,351 - INFO - Total time for traversing 0.868139
+2017-10-23 17:43:36,352 - INFO - Total time for assembling 105.890539
+2017-10-23 17:43:36,352 - INFO - Total time for eveeeeryything 182.967919
+2017-10-23 17:43:43,056 - INFO - Total time for creating 108.794079
+2017-10-23 17:43:43,056 - INFO - Total time for traversing 0.958051
+2017-10-23 17:43:43,057 - INFO - Total time for assembling 111.426952
+2017-10-23 17:43:43,057 - INFO - Total time for eveeeeryything 189.663066
+2017-10-23 17:43:43,867 - INFO - Total time for creating 99.881615
+2017-10-23 17:43:43,868 - INFO - Total time for traversing 0.862348
+2017-10-23 17:43:43,868 - INFO - Total time for assembling 102.303037
+2017-10-23 17:43:43,868 - INFO - Total time for eveeeeryything 190.506818
+2017-10-23 17:43:48,814 - INFO - Skipping very large window 1:76350632-76352525 of size 1893. Max window size is 1500 (set in option --maxSize)
+2017-10-23 17:43:50,580 - INFO - Total time for creating 108.194447
+2017-10-23 17:43:50,580 - INFO - Total time for traversing 0.923767
+2017-10-23 17:43:50,580 - INFO - Total time for assembling 110.758429
+2017-10-23 17:43:50,581 - INFO - Total time for eveeeeryything 197.196779
+2017-10-23 17:43:55,664 - INFO - Total time for creating 105.131888
+2017-10-23 17:43:55,665 - INFO - Total time for traversing 0.901663
+2017-10-23 17:43:55,665 - INFO - Total time for assembling 107.257216
+2017-10-23 17:43:55,665 - INFO - Total time for eveeeeryything 202.277929
+2017-10-23 17:44:03,085 - INFO - Total time for creating 108.355583
+2017-10-23 17:44:03,086 - INFO - Total time for traversing 0.950591
+2017-10-23 17:44:03,086 - INFO - Total time for assembling 110.771727
+2017-10-23 17:44:03,086 - INFO - Total time for eveeeeryything 209.696714
+2017-10-23 17:44:06,040 - INFO - Total time for creating 116.984066
+2017-10-23 17:44:06,041 - INFO - Total time for traversing 1.070146
+2017-10-23 17:44:06,041 - INFO - Total time for assembling 119.533943
+2017-10-23 17:44:06,041 - INFO - Total time for eveeeeryything 212.673893
+2017-10-23 17:44:06,642 - INFO - Merging output VCF file(s) into final file /genomics/scratch/out.vcf
+2017-10-23 17:44:07,531 - INFO - Finished merging VCF file(s)
+2017-10-23 17:44:07,533 - INFO - Finished variant calling
+1421.04user 95.71system 3:34.51elapsed 707%CPU (0avgtext+0avgdata 118468maxresident)k
+3547784inputs+28232outputs (33major+4835041minor)pagefaults 0swaps

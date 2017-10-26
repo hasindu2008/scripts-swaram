@@ -1,0 +1,55 @@
+2017-10-23 06:40:33,185 - INFO - Beginning variant calling
+2017-10-23 06:40:33,190 - INFO - Output will go to /genomics/scratch/out.vcf
+2017-10-23 06:40:33,254 - INFO - Processing region 1:93568978-93668978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,275 - INFO - Processing region 1:94068978-94168978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,280 - INFO - Processing region 1:93668978-93768978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,285 - INFO - Processing region 1:93768978-93868978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,285 - INFO - Processing region 1:93968978-94068978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,290 - INFO - Processing region 1:94168978-94268978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:40:33,297 - INFO - Processing region 1:93868978-93968978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:41:59,179 - INFO - Processing region 1:101468978-101568978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:00,385 - INFO - Processing region 1:101668978-101768978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:03,370 - INFO - Processing region 1:101568978-101668978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:09,289 - INFO - Processing region 1:102068978-102168978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:13,569 - INFO - Processing region 1:102168978-102268978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:22,615 - INFO - Processing region 1:101768978-101868978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:22,820 - INFO - Processing region 1:101968978-102068978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:42:50,469 - INFO - Processing region 1:101868978-101968978. (Only printing this message every 10 regions of size 100000)
+2017-10-23 06:43:28,205 - INFO - Skipping very large window 1:108509997-108512154 of size 2157. Max window size is 1500 (set in option --maxSize)
+2017-10-23 06:43:29,198 - INFO - Total time for creating 99.592880
+2017-10-23 06:43:29,199 - INFO - Total time for traversing 0.853060
+2017-10-23 06:43:29,200 - INFO - Total time for assembling 101.848936
+2017-10-23 06:43:29,200 - INFO - Total time for eveeeeryything 175.929214
+2017-10-23 06:43:32,536 - INFO - Total time for creating 98.346318
+2017-10-23 06:43:32,536 - INFO - Total time for traversing 0.827525
+2017-10-23 06:43:32,536 - INFO - Total time for assembling 100.352804
+2017-10-23 06:43:32,537 - INFO - Total time for eveeeeryything 179.271437
+2017-10-23 06:43:33,721 - INFO - Total time for creating 97.528185
+2017-10-23 06:43:33,721 - INFO - Total time for traversing 0.854348
+2017-10-23 06:43:33,722 - INFO - Total time for assembling 99.788339
+2017-10-23 06:43:33,722 - INFO - Total time for eveeeeryything 180.473271
+2017-10-23 06:43:34,514 - INFO - Total time for creating 95.840959
+2017-10-23 06:43:34,515 - INFO - Total time for traversing 0.839492
+2017-10-23 06:43:34,516 - INFO - Total time for assembling 98.194519
+2017-10-23 06:43:34,516 - INFO - Total time for eveeeeryything 181.235919
+2017-10-23 06:43:34,767 - INFO - Total time for creating 102.871906
+2017-10-23 06:43:34,768 - INFO - Total time for traversing 0.886298
+2017-10-23 06:43:34,768 - INFO - Total time for assembling 105.241108
+2017-10-23 06:43:34,768 - INFO - Total time for eveeeeryything 181.484137
+2017-10-23 06:43:36,821 - INFO - Total time for creating 97.838516
+2017-10-23 06:43:36,821 - INFO - Total time for traversing 0.831444
+2017-10-23 06:43:36,822 - INFO - Total time for assembling 100.022646
+2017-10-23 06:43:36,822 - INFO - Total time for eveeeeryything 183.576828
+2017-10-23 06:43:37,940 - INFO - Total time for creating 96.608634
+2017-10-23 06:43:37,940 - INFO - Total time for traversing 0.827245
+2017-10-23 06:43:37,940 - INFO - Total time for assembling 98.610985
+2017-10-23 06:43:37,941 - INFO - Total time for eveeeeryything 184.660616
+2017-10-23 06:44:03,370 - INFO - Total time for creating 109.733361
+2017-10-23 06:44:03,371 - INFO - Total time for traversing 1.037296
+2017-10-23 06:44:03,371 - INFO - Total time for assembling 112.412335
+2017-10-23 06:44:03,371 - INFO - Total time for eveeeeryything 210.083211
+2017-10-23 06:44:04,528 - INFO - Merging output VCF file(s) into final file /genomics/scratch/out.vcf
+2017-10-23 06:44:05,416 - INFO - Finished merging VCF file(s)
+2017-10-23 06:44:05,418 - INFO - Finished variant calling
+1347.10user 89.60system 3:32.52elapsed 676%CPU (0avgtext+0avgdata 118428maxresident)k
+3448840inputs+28712outputs (37major+4555863minor)pagefaults 0swaps
