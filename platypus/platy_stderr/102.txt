@@ -1,72 +1,302 @@
-2017-10-23 17:40:32,894 - INFO - Beginning variant calling
-2017-10-23 17:40:32,898 - INFO - Output will go to /genomics/scratch/out.vcf
-2017-10-23 17:40:32,952 - INFO - Processing region 1:31156326-31256326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,952 - INFO - Processing region 1:31256326-31356326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,955 - INFO - Processing region 1:31356326-31456326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,967 - INFO - Processing region 1:31556326-31656326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,968 - INFO - Processing region 1:31756326-31856326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,975 - INFO - Processing region 1:31456326-31556326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,982 - INFO - Processing region 1:31856326-31956326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:32,986 - INFO - Processing region 1:31656326-31756326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:40:43,469 - INFO - Skipping very large window 1:31565114-31567424 of size 2310. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:40:58,341 - INFO - Skipping very large window 1:32422210-32424316 of size 2106. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:41:08,435 - INFO - Skipping very large window 1:33197267-33198971 of size 1704. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:41:09,326 - INFO - Skipping very large window 1:33105984-33107502 of size 1518. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:42:09,512 - INFO - Processing region 1:39356326-39456326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:12,456 - INFO - Skipping very large window 1:37954965-37956475 of size 1510. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:42:14,779 - INFO - Skipping very large window 1:38327423-38329066 of size 1643. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:42:18,308 - INFO - Skipping very large window 1:39369928-39371523 of size 1595. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:42:20,286 - INFO - Processing region 1:39456326-39556326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:23,699 - INFO - Processing region 1:39856326-39956326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:27,831 - INFO - Processing region 1:39556326-39656326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:30,689 - INFO - Processing region 1:39656326-39756326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:39,875 - INFO - Skipping very large window 1:40278038-40279552 of size 1514. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:42:42,055 - INFO - Processing region 1:39156326-39256326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:43,277 - INFO - Processing region 1:39256326-39356326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:57,515 - INFO - Processing region 1:39756326-39856326. (Only printing this message every 10 regions of size 100000)
-2017-10-23 17:42:59,220 - INFO - Skipping very large window 1:40020566-40022130 of size 1564. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:43:01,253 - INFO - Skipping very large window 1:39347957-39350102 of size 2145. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:43:14,923 - INFO - Skipping very large window 1:41991946-41993698 of size 1752. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:43:22,346 - INFO - Skipping very large window 1:43495921-43497694 of size 1773. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:43:44,737 - INFO - Skipping very large window 1:44505766-44507541 of size 1775. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:44:05,064 - INFO - Total time for creating 90.406450
-2017-10-23 17:44:05,065 - INFO - Total time for traversing 0.798740
-2017-10-23 17:44:05,065 - INFO - Total time for assembling 92.426470
-2017-10-23 17:44:05,066 - INFO - Total time for eveeeeryything 212.102894
-2017-10-23 17:44:05,654 - INFO - Skipping very large window 1:46137980-46139494 of size 1514. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:44:05,928 - INFO - Total time for creating 103.572604
-2017-10-23 17:44:05,928 - INFO - Total time for traversing 0.928880
-2017-10-23 17:44:05,928 - INFO - Total time for assembling 105.977302
-2017-10-23 17:44:05,929 - INFO - Total time for eveeeeryything 212.949530
-2017-10-23 17:44:09,236 - INFO - Skipping very large window 1:45829679-45831196 of size 1517. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:44:12,727 - INFO - Skipping very large window 1:45594004-45595659 of size 1655. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:44:13,660 - INFO - Total time for creating 101.059332
-2017-10-23 17:44:13,661 - INFO - Total time for traversing 0.892308
-2017-10-23 17:44:13,662 - INFO - Total time for assembling 103.204153
-2017-10-23 17:44:13,662 - INFO - Total time for eveeeeryything 220.683041
-2017-10-23 17:44:15,500 - INFO - Total time for creating 92.135473
-2017-10-23 17:44:15,500 - INFO - Total time for traversing 0.782517
-2017-10-23 17:44:15,500 - INFO - Total time for assembling 94.487972
-2017-10-23 17:44:15,501 - INFO - Total time for eveeeeryything 222.535198
-2017-10-23 17:44:17,969 - INFO - Skipping very large window 1:45432100-45433898 of size 1798. Max window size is 1500 (set in option --maxSize)
-2017-10-23 17:44:20,014 - INFO - Total time for creating 103.208433
-2017-10-23 17:44:20,015 - INFO - Total time for traversing 0.931135
-2017-10-23 17:44:20,015 - INFO - Total time for assembling 105.736362
-2017-10-23 17:44:20,016 - INFO - Total time for eveeeeryything 227.065265
-2017-10-23 17:44:20,954 - INFO - Total time for creating 115.344201
-2017-10-23 17:44:20,955 - INFO - Total time for traversing 1.057033
-2017-10-23 17:44:20,955 - INFO - Total time for assembling 117.870278
-2017-10-23 17:44:20,955 - INFO - Total time for eveeeeryything 228.009979
-2017-10-23 17:44:26,946 - INFO - Total time for creating 111.987532
-2017-10-23 17:44:26,947 - INFO - Total time for traversing 0.982911
-2017-10-23 17:44:26,947 - INFO - Total time for assembling 114.949754
-2017-10-23 17:44:26,947 - INFO - Total time for eveeeeryything 233.999872
-2017-10-23 17:44:28,824 - INFO - Total time for creating 103.872817
-2017-10-23 17:44:28,824 - INFO - Total time for traversing 0.967493
-2017-10-23 17:44:28,825 - INFO - Total time for assembling 106.147976
-2017-10-23 17:44:28,825 - INFO - Total time for eveeeeryything 235.861454
-2017-10-23 17:44:29,271 - INFO - Merging output VCF file(s) into final file /genomics/scratch/out.vcf
-2017-10-23 17:44:30,086 - INFO - Finished merging VCF file(s)
-2017-10-23 17:44:30,089 - INFO - Finished variant calling
-1641.68user 99.00system 3:57.46elapsed 733%CPU (0avgtext+0avgdata 119660maxresident)k
-3876120inputs+26752outputs (36major+4875886minor)pagefaults 0swaps
+2017-11-04 19:21:55,773 - INFO - Beginning variant calling
+2017-11-04 19:21:55,773 - INFO - Output will go to /genomics/scratch/out.vcf
+2017-11-04 19:21:55,972 - INFO - Processing region 3:0-100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:55,975 - INFO - Processing region 3:100000-200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:55,978 - INFO - Processing region 3:200000-300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:55,988 - INFO - Processing region 3:400000-500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:55,995 - INFO - Processing region 3:700000-800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:56,004 - INFO - Processing region 3:500000-600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:56,004 - INFO - Processing region 3:300000-400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:21:56,008 - INFO - Processing region 3:600000-700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:13,669 - INFO - Skipping very large window 3:2484822-2486691 of size 1869. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:22:30,250 - INFO - Processing region 3:8000000-8100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:30,620 - INFO - Processing region 3:8400000-8500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:33,634 - INFO - Processing region 3:8100000-8200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:34,853 - INFO - Processing region 3:8300000-8400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:35,112 - INFO - Processing region 3:8500000-8600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:35,181 - INFO - Processing region 3:8600000-8700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:35,802 - INFO - Processing region 3:8700000-8800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:36,350 - INFO - Processing region 3:8200000-8300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:22:41,538 - INFO - Skipping very large window 3:9649947-9651674 of size 1727. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:22:41,552 - INFO - Skipping very large window 3:9651941-9653450 of size 1509. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:22:41,670 - INFO - Skipping very large window 3:9674410-9675912 of size 1502. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:22:44,392 - INFO - Skipping very large window 3:10153488-10155597 of size 2109. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:22:52,413 - INFO - Skipping very large window 3:11788778-11790391 of size 1613. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:23:01,792 - INFO - Processing region 3:16000000-16100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:05,505 - INFO - Processing region 3:16600000-16700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:05,723 - INFO - Processing region 3:16100000-16200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:10,743 - INFO - Processing region 3:16400000-16500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:12,690 - INFO - Processing region 3:16500000-16600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:14,435 - INFO - Skipping very large window 3:16458674-16460191 of size 1517. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:23:18,683 - INFO - Processing region 3:16700000-16800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:19,873 - INFO - Processing region 3:16200000-16300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:20,968 - INFO - Processing region 3:16300000-16400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:32,170 - INFO - Processing region 3:24100000-24200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:40,096 - INFO - Processing region 3:24000000-24100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:40,972 - INFO - Processing region 3:24700000-24800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:41,372 - INFO - Processing region 3:24600000-24700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:43,179 - INFO - Processing region 3:24500000-24600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:50,611 - INFO - Processing region 3:24400000-24500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:52,696 - INFO - Processing region 3:24200000-24300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:23:53,275 - INFO - Processing region 3:24300000-24400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:01,923 - INFO - Processing region 3:32100000-32200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:06,159 - INFO - Processing region 3:32600000-32700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:11,556 - INFO - Processing region 3:32700000-32800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:13,202 - INFO - Skipping very large window 3:30178890-30180529 of size 1639. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:24:17,781 - INFO - Processing region 3:32200000-32300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:19,478 - INFO - Processing region 3:32300000-32400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:22,791 - INFO - Processing region 3:32400000-32500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:24,483 - INFO - Processing region 3:32000000-32100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:25,614 - INFO - Processing region 3:32500000-32600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:38,677 - INFO - Processing region 3:40700000-40800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:39,916 - INFO - Processing region 3:40600000-40700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:42,053 - INFO - Processing region 3:40100000-40200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:47,910 - INFO - Processing region 3:40300000-40400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:54,079 - INFO - Processing region 3:40500000-40600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:24:56,955 - INFO - Skipping very large window 3:40501045-40502565 of size 1520. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:24:58,388 - INFO - Processing region 3:40200000-40300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:01,593 - INFO - Processing region 3:40400000-40500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:06,433 - INFO - Processing region 3:40000000-40100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:11,415 - INFO - Processing region 3:48700000-48800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:16,011 - INFO - Processing region 3:48600000-48700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:18,566 - INFO - Processing region 3:48300000-48400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:20,707 - INFO - Processing region 3:48100000-48200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:25,850 - INFO - Processing region 3:48200000-48300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:27,107 - INFO - Processing region 3:48500000-48600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:28,415 - INFO - Processing region 3:48400000-48500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:32,649 - INFO - Skipping very large window 3:47289929-47291605 of size 1676. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:25:32,693 - INFO - Processing region 3:48000000-48100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:49,819 - INFO - Processing region 3:56300000-56400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:50,193 - INFO - Processing region 3:56600000-56700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:54,620 - INFO - Processing region 3:56400000-56500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:55,035 - INFO - Processing region 3:56700000-56800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:55,461 - INFO - Processing region 3:56200000-56300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:25:57,974 - INFO - Processing region 3:56000000-56100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:03,237 - INFO - Skipping very large window 3:58295620-58297443 of size 1823. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:26:04,490 - INFO - Skipping very large window 3:58068308-58069916 of size 1608. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:26:05,752 - INFO - Skipping very large window 3:55776113-55777628 of size 1515. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:26:05,840 - INFO - Processing region 3:56500000-56600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:06,484 - INFO - Skipping very large window 3:58305349-58306853 of size 1504. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:26:07,324 - INFO - Processing region 3:56100000-56200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:19,399 - WARNING - Skipping output for call 3:60830533 M --> ['C'], as the reference sequence contains non-canonical bases (i.e. not A,C,T,G)
+2017-11-04 19:26:19,402 - WARNING - Skipping output for call 3:60830762 RR --> ['AA'], as the reference sequence contains non-canonical bases (i.e. not A,C,T,G)
+2017-11-04 19:26:22,705 - INFO - Processing region 3:64400000-64500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:27,400 - INFO - Processing region 3:64300000-64400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:27,768 - INFO - Processing region 3:64000000-64100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:30,105 - INFO - Processing region 3:64700000-64800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:34,680 - INFO - Processing region 3:64500000-64600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:34,814 - INFO - Processing region 3:64600000-64700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:34,930 - INFO - Processing region 3:64100000-64200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:36,396 - INFO - Processing region 3:64200000-64300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:50,139 - INFO - Skipping very large window 3:69271383-69272999 of size 1616. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:26:59,355 - INFO - Processing region 3:72400000-72500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:26:59,786 - INFO - Processing region 3:72500000-72600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:01,272 - INFO - Processing region 3:72100000-72200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:02,714 - INFO - Processing region 3:72200000-72300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:03,399 - INFO - Processing region 3:72300000-72400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:05,920 - INFO - Processing region 3:72000000-72100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:09,462 - INFO - Skipping very large window 3:73051468-73054284 of size 2816. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:09,869 - INFO - Skipping very large window 3:71825502-71827006 of size 1504. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:10,218 - INFO - Processing region 3:72600000-72700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:10,771 - INFO - Processing region 3:72700000-72800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:21,230 - INFO - Skipping very large window 3:75561895-75563598 of size 1703. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:35,597 - INFO - Skipping very large window 3:75657650-75659678 of size 2028. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:40,100 - INFO - Processing region 3:80100000-80200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:42,957 - INFO - Processing region 3:80200000-80300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:44,781 - INFO - Skipping very large window 3:80248150-80249651 of size 1501. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:44,868 - INFO - Skipping very large window 3:75786250-75787801 of size 1551. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:27:49,234 - INFO - Processing region 3:80300000-80400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:52,470 - INFO - Processing region 3:80000000-80100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:56,326 - INFO - Processing region 3:80500000-80600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:57,617 - INFO - Processing region 3:80400000-80500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:27:58,284 - INFO - Processing region 3:80700000-80800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:07,349 - INFO - Skipping very large window 3:82965267-82967022 of size 1755. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:28:08,400 - INFO - Processing region 3:80600000-80700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:11,082 - INFO - Processing region 3:88200000-88300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:12,860 - INFO - Processing region 3:88100000-88200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:18,960 - INFO - Skipping very large window 3:86780072-86781579 of size 1507. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:28:21,406 - INFO - Processing region 3:88400000-88500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:21,853 - INFO - Processing region 3:88300000-88400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:23,904 - INFO - Processing region 3:88000000-88100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:27,095 - INFO - Processing region 3:88500000-88600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:29,951 - INFO - Processing region 3:88600000-88700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:33,015 - INFO - Processing region 3:88700000-88800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:34,840 - INFO - Processing region 3:96200000-96300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:37,076 - INFO - Processing region 3:96300000-96400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:39,781 - INFO - Processing region 3:96100000-96200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:39,854 - INFO - Skipping very large window 3:96330265-96331775 of size 1510. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:28:40,166 - INFO - Processing region 3:96400000-96500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:40,397 - INFO - Processing region 3:96500000-96600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:45,325 - INFO - Processing region 3:96600000-96700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:45,895 - INFO - Skipping very large window 3:90379729-90381769 of size 2040. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:28:49,219 - INFO - Processing region 3:96000000-96100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:28:57,372 - INFO - Processing region 3:96700000-96800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:07,013 - INFO - Processing region 3:104600000-104700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:07,787 - INFO - Processing region 3:104300000-104400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:09,196 - INFO - Processing region 3:104500000-104600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:13,614 - INFO - Processing region 3:104100000-104200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:15,766 - INFO - Processing region 3:104200000-104300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:15,986 - INFO - Processing region 3:104400000-104500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:19,251 - INFO - Processing region 3:104000000-104100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:21,487 - INFO - Processing region 3:104700000-104800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:33,328 - INFO - Processing region 3:112600000-112700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:33,829 - INFO - Skipping very large window 3:108906896-108908405 of size 1509. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:29:38,144 - INFO - Processing region 3:112300000-112400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:43,030 - INFO - Processing region 3:112700000-112800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:44,033 - INFO - Processing region 3:112500000-112600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:44,447 - INFO - Processing region 3:112100000-112200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:48,346 - INFO - Processing region 3:112000000-112100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:29:48,476 - INFO - Skipping very large window 3:113590756-113592412 of size 1656. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:29:59,720 - INFO - Processing region 3:112200000-112300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:01,591 - INFO - Processing region 3:112400000-112500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:05,010 - INFO - Processing region 3:120600000-120700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:08,000 - INFO - Skipping very large window 3:113261795-113263307 of size 1512. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:09,554 - INFO - Processing region 3:120300000-120400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:10,879 - INFO - Processing region 3:120500000-120600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:10,927 - INFO - Processing region 3:120700000-120800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:11,383 - INFO - Processing region 3:120100000-120200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:27,164 - INFO - Processing region 3:120000000-120100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:30,399 - INFO - Processing region 3:120200000-120300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:30,928 - INFO - Skipping very large window 3:124998086-124999613 of size 1527. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:31,296 - INFO - Processing region 3:120400000-120500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:36,458 - INFO - Skipping very large window 3:125405735-125407973 of size 2238. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:37,578 - INFO - Skipping very large window 3:125536419-125538543 of size 2124. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:38,268 - INFO - Processing region 3:128500000-128600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:40,871 - INFO - Skipping very large window 3:125575504-125577031 of size 1527. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:41,510 - INFO - Processing region 3:128100000-128200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:44,823 - INFO - Processing region 3:128300000-128400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:47,462 - INFO - Skipping very large window 3:125060151-125062157 of size 2006. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:47,636 - INFO - Skipping very large window 3:128346535-128348160 of size 1625. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:49,126 - INFO - Skipping very large window 3:125088096-125090138 of size 2042. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:49,589 - INFO - Skipping very large window 3:126873178-126874917 of size 1739. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:30:49,600 - INFO - Processing region 3:128700000-128800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:51,422 - INFO - Processing region 3:128400000-128500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:30:57,419 - INFO - Processing region 3:128200000-128300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:06,484 - INFO - Processing region 3:128000000-128100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:08,554 - INFO - Skipping very large window 3:129768799-129770308 of size 1509. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:31:11,959 - INFO - Skipping very large window 3:129845404-129847751 of size 2347. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:31:12,362 - INFO - Skipping very large window 3:129848567-129850355 of size 1788. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:31:14,400 - INFO - Processing region 3:136500000-136600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:17,329 - INFO - Skipping very large window 3:135667947-135669457 of size 1510. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:31:17,500 - INFO - Processing region 3:136400000-136500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:18,441 - INFO - Skipping very large window 3:136584200-136586112 of size 1912. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:31:25,166 - INFO - Processing region 3:128600000-128700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:27,255 - INFO - Processing region 3:136100000-136200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:29,749 - INFO - Processing region 3:136000000-136100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:34,205 - INFO - Processing region 3:136300000-136400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:34,245 - INFO - Processing region 3:136700000-136800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:46,925 - INFO - Processing region 3:144400000-144500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:48,902 - INFO - Processing region 3:136200000-136300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:51,369 - INFO - Processing region 3:136600000-136700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:31:53,803 - INFO - Processing region 3:144500000-144600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:00,248 - INFO - Processing region 3:144100000-144200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:03,734 - INFO - Processing region 3:144000000-144100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:04,772 - INFO - Processing region 3:144700000-144800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:05,818 - INFO - Skipping very large window 3:141485036-141487123 of size 2087. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:32:13,965 - INFO - Processing region 3:144300000-144400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:15,161 - INFO - Processing region 3:144200000-144300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:15,671 - INFO - Processing region 3:152500000-152600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:15,951 - INFO - Processing region 3:144600000-144700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:20,451 - INFO - Processing region 3:152400000-152500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:22,658 - INFO - Skipping very large window 3:149686345-149687846 of size 1501. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:32:27,638 - INFO - Processing region 3:152000000-152100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:27,804 - INFO - Skipping very large window 3:146281489-146283019 of size 1530. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:32:29,723 - INFO - Processing region 3:152700000-152800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:29,878 - INFO - Skipping very large window 3:151394806-151396613 of size 1807. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:32:29,928 - INFO - Processing region 3:152100000-152200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:43,263 - INFO - Processing region 3:160500000-160600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:44,017 - INFO - Skipping very large window 3:151499589-151501102 of size 1513. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:32:44,018 - INFO - Processing region 3:152200000-152300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:44,984 - INFO - Processing region 3:152600000-152700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:47,600 - INFO - Processing region 3:152300000-152400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:56,044 - INFO - Processing region 3:160000000-160100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:56,945 - INFO - Processing region 3:160400000-160500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:58,610 - INFO - Processing region 3:160700000-160800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:32:58,944 - INFO - Processing region 3:160100000-160200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:07,274 - INFO - Processing region 3:160200000-160300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:11,741 - INFO - Processing region 3:160300000-160400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:12,846 - INFO - Processing region 3:160600000-160700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:13,411 - INFO - Processing region 3:168500000-168600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:25,449 - INFO - Processing region 3:168700000-168800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:25,761 - INFO - Processing region 3:168100000-168200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:28,128 - INFO - Processing region 3:168200000-168300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:30,973 - INFO - Processing region 3:168400000-168500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:36,829 - INFO - Processing region 3:168000000-168100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:36,917 - INFO - Processing region 3:168600000-168700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:36,977 - INFO - Processing region 3:168300000-168400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:48,536 - INFO - Processing region 3:176500000-176600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:48,920 - INFO - Skipping very large window 3:172221781-172223635 of size 1854. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:33:50,629 - INFO - Processing region 3:176700000-176800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:58,621 - INFO - Processing region 3:176400000-176500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:58,988 - INFO - Processing region 3:176100000-176200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:33:59,301 - INFO - Processing region 3:176600000-176700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:03,269 - INFO - Processing region 3:176000000-176100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:04,185 - INFO - Processing region 3:176200000-176300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:09,050 - INFO - Skipping very large window 3:181511672-181513187 of size 1515. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:34:12,798 - INFO - Processing region 3:184500000-184600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:14,610 - INFO - Processing region 3:176300000-176400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:19,398 - INFO - Processing region 3:184700000-184800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:22,895 - INFO - Processing region 3:184600000-184700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:24,248 - INFO - Processing region 3:184400000-184500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:28,378 - INFO - Skipping very large window 3:183239584-183241607 of size 2023. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:34:28,671 - INFO - Processing region 3:184000000-184100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:29,370 - INFO - Processing region 3:184100000-184200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:42,534 - INFO - Processing region 3:184200000-184300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:44,196 - INFO - Processing region 3:192700000-192800000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:45,031 - INFO - Processing region 3:192600000-192700000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:46,499 - INFO - Processing region 3:192500000-192600000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:54,421 - INFO - Processing region 3:192100000-192200000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:55,370 - INFO - Skipping very large window 3:195157929-195159797 of size 1868. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:34:55,658 - INFO - Processing region 3:184300000-184400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:34:57,929 - INFO - Processing region 3:192000000-192100000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:35:01,167 - INFO - Processing region 3:192400000-192500000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:35:02,649 - INFO - Skipping very large window 3:197550987-197552601 of size 1614. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:02,945 - INFO - Total time for creating 471.611800
+2017-11-04 19:35:02,946 - INFO - Total time for traversing 11.394208
+2017-11-04 19:35:02,946 - INFO - Total time for assembling 491.586778
+2017-11-04 19:35:02,946 - INFO - Total time for eveeeeryything 786.955452
+2017-11-04 19:35:05,218 - INFO - Skipping very large window 3:195086286-195087793 of size 1507. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:08,213 - INFO - Skipping very large window 3:195801740-195803495 of size 1755. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:08,302 - INFO - Total time for creating 490.211169
+2017-11-04 19:35:08,302 - INFO - Total time for traversing 11.016785
+2017-11-04 19:35:08,302 - INFO - Total time for assembling 514.631380
+2017-11-04 19:35:08,303 - INFO - Total time for eveeeeryything 792.302921
+2017-11-04 19:35:12,377 - INFO - Skipping very large window 3:196068012-196069642 of size 1630. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:14,636 - INFO - Total time for creating 452.679423
+2017-11-04 19:35:14,637 - INFO - Total time for traversing 11.030927
+2017-11-04 19:35:14,638 - INFO - Total time for assembling 467.435897
+2017-11-04 19:35:14,639 - INFO - Total time for eveeeeryything 798.634087
+2017-11-04 19:35:16,566 - INFO - Total time for creating 518.378384
+2017-11-04 19:35:16,566 - INFO - Total time for traversing 10.421193
+2017-11-04 19:35:16,567 - INFO - Total time for assembling 551.064830
+2017-11-04 19:35:16,567 - INFO - Total time for eveeeeryything 800.599579
+2017-11-04 19:35:17,110 - INFO - Total time for creating 489.513611
+2017-11-04 19:35:17,111 - INFO - Total time for traversing 11.582447
+2017-11-04 19:35:17,111 - INFO - Total time for assembling 507.846986
+2017-11-04 19:35:17,112 - INFO - Total time for eveeeeryything 801.141553
+2017-11-04 19:35:18,765 - INFO - Processing region 3:192200000-192300000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:35:19,775 - INFO - Processing region 3:192300000-192400000. (Only printing this message every 10 regions of size 100000)
+2017-11-04 19:35:21,848 - INFO - Total time for creating 496.685291
+2017-11-04 19:35:21,849 - INFO - Total time for traversing 11.405128
+2017-11-04 19:35:21,849 - INFO - Total time for assembling 521.442316
+2017-11-04 19:35:21,849 - INFO - Total time for eveeeeryything 805.865592
+2017-11-04 19:35:35,274 - INFO - Skipping very large window 3:197111119-197112627 of size 1508. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:35,310 - INFO - Skipping very large window 3:197117114-197118973 of size 1859. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:41,316 - INFO - Skipping very large window 3:197905352-197907084 of size 1732. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:46,016 - INFO - Total time for creating 503.050736
+2017-11-04 19:35:46,017 - INFO - Total time for traversing 10.684002
+2017-11-04 19:35:46,017 - INFO - Total time for assembling 530.781435
+2017-11-04 19:35:46,017 - INFO - Total time for eveeeeryything 830.044069
+2017-11-04 19:35:46,609 - INFO - Skipping very large window 3:197913819-197916254 of size 2435. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:54,627 - INFO - Skipping very large window 3:197928616-197930318 of size 1702. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:35:56,742 - INFO - Skipping very large window 3:197935231-197937384 of size 2153. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:36:05,963 - INFO - Skipping very large window 3:197954846-197956477 of size 1631. Max window size is 1500 (set in option --maxSize)
+2017-11-04 19:36:08,175 - INFO - Total time for creating 509.035388
+2017-11-04 19:36:08,175 - INFO - Total time for traversing 11.182370
+2017-11-04 19:36:08,175 - INFO - Total time for assembling 538.061236
+2017-11-04 19:36:08,176 - INFO - Total time for eveeeeryything 852.189617
+2017-11-04 19:36:09,079 - INFO - Merging output VCF file(s) into final file /genomics/scratch/out.vcf
+2017-11-04 19:36:20,140 - INFO - Finished merging VCF file(s)
+2017-11-04 19:36:20,167 - INFO - Finished variant calling
+5763.44user 582.77system 14:24.72elapsed 733%CPU (0avgtext+0avgdata 50712maxresident)k
+1103056inputs+355168outputs (38major+36559752minor)pagefaults 0swaps
