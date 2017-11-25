@@ -1,6 +1,0 @@
-7218.71user 529.10system 3:37:20elapsed 59%CPU (0avgtext+0avgdata 16024maxresident)k
-584inputs+23114040outputs (4major+34828468minor)pagefaults 0swaps
-[bam_header_read] EOF marker is absent. The input is probably truncated.
-[bam_index_core] truncated file? Continue anyway. (-2)
-270.44user 38.54system 5:09.26elapsed 99%CPU (0avgtext+0avgdata 3012maxresident)k
-23111608inputs+48outputs (5major+889minor)pagefaults 0swaps

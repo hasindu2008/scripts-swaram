@@ -1,0 +1,6 @@
+4    #master
+192.168.1.109  #Auxillary
+192.168.1.110  #Auxillary
+192.168.1.111  #Auxillary
+/genomics/reference/hs37d5_split.fa
+/storage/NA12878reads/P02.fq

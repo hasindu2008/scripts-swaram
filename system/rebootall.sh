@@ -1,5 +1,5 @@
 #!/bin/bash
 
-ansible allNoself -m shell -a "reboot" -K --become
-sudo reboot
+ansible all -m shell -a "reboot" -K --become
+#sudo reboot
 

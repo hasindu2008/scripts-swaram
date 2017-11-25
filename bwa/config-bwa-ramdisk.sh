@@ -1,8 +1,10 @@
+READ_PATH=/storage/NA12878reads
+
 reference=/genomics/reference/hs37d5_split.fa
-file1=/storage/NA12878_illumina_platinum/P00.fq
-file2=/storage/NA12878_illumina_platinum/P01.fq
-file3=/storage/NA12878_illumina_platinum/P02.fq
-file4=/storage/NA12878_illumina_platinum/P03.fq
+file1=$READ_PATH/P00.fq
+file2=$READ_PATH/P01.fq
+file3=$READ_PATH/P02.fq
+file4=$READ_PATH/P03.fq
 
 
 echo "4    #master
