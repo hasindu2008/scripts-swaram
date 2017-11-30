@@ -3,5 +3,5 @@
   remote_user: odroid
   tasks:
   - name: "dic"
-    shell: java -Xmx1500M -jar /genomics/gatk/picard.jar CreateSequenceDictionary REFERENCE=/genomics/reference/human-genome.fa OUTPUT=/genomics/reference/human-genome.dict 
+    shell: java -Xmx1500M -jar /genomics/gatk/picard.jar CreateSequenceDictionary REFERENCE=/genomics/reference/hs37d5_split.fa OUTPUT=/genomics/reference/hs37d5_split.dict 
 
