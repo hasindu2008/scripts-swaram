@@ -1,7 +1,7 @@
-P1=$(head -1 /storage/NA12878reads/P00.fq | tr -dc '0-9')
-P2=$(head -1 /storage/NA12878reads/P01.fq | tr -dc '0-9')
-P3=$(head -1 /storage/NA12878reads/P02.fq | tr -dc '0-9')
-P4=$(head -1 /storage/NA12878reads/P03.fq | tr -dc '0-9')
+P1=$(head -1 /storage/NA12878_illumina_reads/P00.fq | tr -dc '0-9')
+P2=$(head -1 /storage/NA12878_illumina_reads/P01.fq | tr -dc '0-9')
+P3=$(head -1 /storage/NA12878_illumina_reads/P02.fq | tr -dc '0-9')
+P4=$(head -1 /storage/NA12878_illumina_reads/P03.fq | tr -dc '0-9')
 
 
 #row 0

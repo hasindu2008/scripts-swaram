@@ -1,6 +1,0 @@
-4    #master
-192.168.1.101  #Auxillary
-192.168.1.102  #Auxillary
-192.168.1.103  #Auxillary
-/genomics/reference/hs37d5_split.fa
-/storage/NA12878reads/P00.fq
