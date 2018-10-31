@@ -6,6 +6,6 @@
   - name: "editline"
     lineinfile:
      dest: /etc/fstab
-     regexp: '192.168.1.11:/storage'
+     regexp: '192.168.1.10:/storage'
      #line: 'tmpfs   /ramdisk tmpfs   nodev,nosuid,noexec,nodiratime,size=400M   0 0'
-     line: '192.168.1.10:/storage     /storage   nfs     intr,nfsvers=4,rsize=8192,wsize=8192       0       0'		
+     line: '192.168.1.11:/storage     /storage   nfs     intr,nfsvers=4,rsize=8192,wsize=8192       0       0'		
