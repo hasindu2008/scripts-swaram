@@ -1,18 +1,23 @@
-if [ "$#" -ne 3 ]
+if [ "$#" -lt 2 ]
 then
-	echo "usage : $0 <file1.fq.gz> <file2.fq.gz> <output.fq>"
-	exit
+	echo "usage : $0 <output.fq> <file1.fq.gz> <file2.fq.gz>"
+	exit 1
 fi 
 
 set -e
 set -o pipefail
 
 FILETMP=singleline.fq
-OUTPUT=$3
+OUTPUT=$1
 
-zcat $1 | paste - - - - > $FILETMP 
-zcat $2 | paste - - - - >> $FILETMP 
+test -e $OUTPUT && echo "$OUTPUT already exists. Please remove it." && exit 1
 
+zcat $2 | paste - - - - > $FILETMP 
+for i in ${@:3}
+do
+	zcat $i | paste - - - - >> $FILETMP 
+done
+	
 awk '{ 
 number=int(4 * rand());
 if(number=="0" ) {print $0> "temp0"} 

@@ -5,7 +5,7 @@
   tasks:
   - name: "copyfile"
     copy:
-     src: yml/sorter2.sh
+     src: sorter2.sh
      dest: /tmp/sorter2.sh
      #owner: odroid
      #group: odroid
