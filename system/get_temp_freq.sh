@@ -32,5 +32,5 @@ do
  
      echo $t1, $f0_r, $f1_r, $f2_r, $f3_r, $f4_r, $f5_r, $f6_r, $f7_r
  
-     sleep 2
+     sleep 60
 done
