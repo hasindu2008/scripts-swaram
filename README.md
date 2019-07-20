@@ -1,1 +1,3 @@
-# odroid-cluster
+# scripts-swaram
+
+Support scripts for SWARAM
